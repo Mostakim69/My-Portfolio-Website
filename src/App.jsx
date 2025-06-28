@@ -8,7 +8,6 @@ import {
 import Preloader from "../src/components/Pre";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Cursor from "../src/components/Cursor";
 import Layout from "./pages/Layout";
 import ArchiveProjects from "./pages/ArchiveProjects";
 import NotFound from "./pages/NotFound";

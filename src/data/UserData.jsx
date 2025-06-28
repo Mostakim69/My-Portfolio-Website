@@ -6,31 +6,33 @@ export const UserData = {
   socialMedia: [
     {
       socialMediaName: "github",
-      url: "https://github.com/rahulvijay81",
+      url: "https://github.com/Mostakim69",
       icon: "AiFillGithub",
     },
     {
       socialMediaName: "linkedin",
-      url: "https://www.linkedin.com/in/rahulvijay81/",
+      url: "https://www.linkedin.com/",
       icon: "FaLinkedinIn",
     },
     {
       socialMediaName: "twitter",
-      url: "https://twitter.com/rahulvijay8156",
+      url: "https://x.com/mostakim14467",
       icon: "AiOutlineTwitter",
     },
     {
       socialMediaName: "instagram",
-      url: "https://instagram.com/rahulvijay81",
+      url: "https://www.instagram.com/posterboy3369/",
       icon: "AiFillInstagram",
     },
   ],
   typewriterOptions: {
     strings: [
-      "Front End Developer",
-      "React Js Developer",
-      "React Native Developer",
-      "UI Developer",
+      "FrontEnd Developer",
+      "React Developer",
+      "Tailwind CSS Specialist",
+      "JavaScript Lover",
+      "Responsive Web Design",
+      "MERN Stack Developer",
       "Javascript Developer",
     ],
     autoStart: true,
