@@ -1,6 +1,12 @@
 export const UserData = {
   name: "Md Mostakim Hosen",
-  about : "I'm Md Mostakim Hosen, a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in HTML5, CSS, TailwindCSS, DaisyUi, React.js, JavaScript, Firebase, MongoDB C#, Java and Python. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
+  about :   `Hi, I’m Md Mostakim Hosen, a frontend developer with a passion for clean code and creative design. My journey in programming started with curiosity, and over time, it became something I truly love. I enjoy building responsive, user-friendly interfaces using technologies like React.js, Tailwind CSS, and JavaScript.
+
+I love solving real-world problems through code and turning ideas into functional web applications. Whether it’s a simple landing page or a dynamic user dashboard, I always focus on performance, design, and user experience.
+
+Outside of coding, I enjoy music, especially emotional songs, watching football, and spending time with my thoughts. I also dream of becoming a teacher — someone who can inspire and guide the next generation.
+
+Let’s build something meaningful together!`,
   resumeUrl : "Google docks",
   FooterLink : "https://github.com/Mostakim69",
   socialMedia: [

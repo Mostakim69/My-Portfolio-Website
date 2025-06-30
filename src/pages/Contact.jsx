@@ -131,7 +131,7 @@ const Contact = () => {
               You can also reach me directly through the following details.
             </p>
             <div className="text-gray-700 space-y-3">
-              <p><span className="font-semibold">Phone:</span> +880-1821-023369</p>
+              <p><span className="font-semibold">Whatsapp:</span> +880-1821-023369</p>
               <p><span className="font-semibold">Email:</span> mdmostakimhosen35@gmail.com</p>
             </div>
           </div>
