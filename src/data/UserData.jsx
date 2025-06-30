@@ -27,7 +27,7 @@ export const UserData = {
   ],
   typewriterOptions: {
     strings: [
-      "FrontEnd Developer",
+      "Frontend Developer",
       "React Developer",
       "Tailwind CSS Specialist",
       "JavaScript Lover",

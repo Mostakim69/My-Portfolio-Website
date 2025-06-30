@@ -1,3 +1,4 @@
+// Header.jsx
 import { useEffect, useState } from "react";
 import { Link, Events, scrollSpy } from "react-scroll";
 import { CgMenuRight } from "react-icons/cg";
@@ -21,6 +22,7 @@ const Header = () => {
   const navItems = [
     { to: "Home-section", label: "Home", offset: -250 },
     { to: "About-section", label: "About", offset: -150 },
+    { to: "Education-section", label: "Education", offset: -150 }, // ✅ New
     { to: "Project-section", label: "Projects", offset: -150 },
     { to: "Contact-section", label: "Contact", offset: 50 },
   ];

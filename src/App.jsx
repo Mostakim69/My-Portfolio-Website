@@ -11,8 +11,10 @@ import Contact from "./pages/Contact";
 import Layout from "./pages/Layout";
 import ArchiveProjects from "./pages/ArchiveProjects";
 import NotFound from "./pages/NotFound";
+import Education from "./pages/Education"; // ✅ Added
 import "./App.css";
 
+// Scroll to top on route change
 function ScrollToTopOnRouteChange() {
   const { pathname } = useLocation();
 
@@ -35,8 +37,7 @@ function App() {
   }, []);
 
   return (
-    <div className="App ">
-      {/* <Cursor /> */}
+    <div className="App">
       <Router>
         <Preloader load={load} />
         <div className="App" id={load ? "no-scroll" : "scroll"}>
@@ -44,6 +45,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Layout />} />
             <Route path="/about" element={<About />} />
+            <Route path="/education" element={<Education />} /> {/* ✅ Optional: direct route */}
             <Route path="/projectlist" element={<ArchiveProjects />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/*" element={<NotFound />} />
