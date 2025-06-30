@@ -71,7 +71,7 @@ const Project = () => {
         <p className="text-sm sm:text-base text-gray-300">
           Following projects showcase my skills and experience through five demo examples of my work. <br />
           It reflects my ability to solve complex problems, work with different technologies, and manage <br />
-          projects more effectively.
+          projects more effectively..
         </p>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full mt-10">
