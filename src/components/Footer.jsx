@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className="mb-2 flex items-center justify-center gap-2">
       <div className="font-poppins text-center text-xs">
-        © Copyright <b>{currentYear}</b> Designed & Built by
+        © Copyright <b>{currentYear}</b> Designed  by
       </div>
       <div
         className="cursor-pointer text-sm font-bold tracking-wider"
@@ -16,7 +16,7 @@ function Footer() {
           window.open(FooterLink);
         }}
       >
-        rahulvijay
+         Md Mostakim Hosen
       </div>
     </div>
   );
