@@ -71,7 +71,7 @@ const Project = () => {
         <p className="text-sm sm:text-base text-gray-300">
           Following projects showcase my skills and experience through five demo examples of my work. <br />
           It reflects my ability to solve complex problems, work with different technologies, and manage <br />
-          projects more effectively..
+          projects more effectively.
         </p>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full mt-10">
@@ -81,17 +81,17 @@ const Project = () => {
             <div
               key={index}
               ref={cardRef}
-              className="bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer"
+              className="bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 "
               onMouseMove={(e) => handleMouseMove(e, cardRef)}
               onMouseLeave={() => handleMouseLeave(cardRef)}
             >
               <img src={project.img} alt={project.title} className="w-full h-40 sm:h-48 lg:h-52 object-cover" />
               <div className="p-4">
-                <h2 className="text-lg sm:text-xl font-semibold mb-2">{project.title}</h2>
+                <h2 className="text-lg text-white sm:text-xl font-semibold mb-2">{project.title}</h2>
                 <p className="text-gray-400 text-sm sm:text-base">{project.desc}</p>
                 <button
                   onClick={() => handleViewClick(project.link)}
-                  className="mt-4 flex items-center text-blue-400 hover:text-blue-300"
+                  className="mt-4 flex items-center text-blue-400 hover:text-white"
                 >
                   <svg
                     className="w-5 h-5 mr-2"
