@@ -17,7 +17,7 @@ Let’s build something meaningful together!`,
     },
     {
       socialMediaName: "linkedin",
-      url: "https://www.linkedin.com/",
+      url: "https://www.linkedin.com/mostakimhosen",
       icon: "FaLinkedinIn",
     },
     {
