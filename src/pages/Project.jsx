@@ -67,7 +67,7 @@ const Project = () => {
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-center px-4 md:px-10 py-20">
       <div className="text-center max-w-4xl mx-auto">
-        <h1 className="text-3xl sm:text-4xl font-bold mb-6">Projects.</h1>
+        <h1 className="text-3xl sm:text-4xl text-white font-bold mb-6">Projects.</h1>
         <p className="text-sm sm:text-base text-gray-300">
           Following projects showcase my skills and experience through five demo examples of my work. <br />
           It reflects my ability to solve complex problems, work with different technologies, and manage <br />
