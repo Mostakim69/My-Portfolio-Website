@@ -3,22 +3,22 @@ import React, { useRef } from 'react';
 const Project = () => {
   const projects = [
     {
-      title: "TourNest BD (MERN Stack)",
+      title: "Tour & Travel Related Website: TourNest BD (Frontend| MERN Stack)",
       desc: "To develop an online platform providing detailed information about tourism in Bangladesh, helping travelers explore destinations, plan trips easily, and experience local culture and activities.",
       img: "https://i.postimg.cc/7LhxVY54/Screenshot-2025-08-04-205453.png",
       link: "https://tour-nest-bd.web.app/",
       github: "https://github.com/Mostakim69/TourNest-BD"
     },
     {
-      title: "HobbyHub (MERN Stack)",
+      title: "Hobby Related Website: HobbyHub (Frontend | MERN Stack)",
       desc: "To build a platform that allows users to discover, join, and create hobby-based groups, fostering meaningful connections and vibrant communities around shared passions and interests.",
       img: "https://i.postimg.cc/659T5KTY/Screenshot-2025-06-30-103030.png",
       link: "https://happy-family-4d585.web.app/",
       github: "https://github.com/Mostakim69/HobbyHub"
     },
     {
-      title: "FriendAssign (MERN Stack)",
-      desc: "A tool to create and manage student assignments easily.",
+      title: "Group-Study Related Website: FriendAssign (Frontend | MERN Stack)",
+      desc: "Purpose: To create a collaborative online platform where friends can assign, complete, and evaluate each other’s work, making group study more engaging, organized, and productive.",
       img: "https://i.postimg.cc/Vk2YMPLy/Screenshot-2025-06-30-103639.png",
       link: "https://assignmen-11-app.web.app/assignments",
       github: "https://github.com/Mostakim69/FriendAssign"
