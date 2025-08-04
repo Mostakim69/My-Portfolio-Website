@@ -17,7 +17,7 @@ Let’s build something meaningful together!`,
     },
     {
       socialMediaName: "linkedin",
-      url: "https://www.linkedin.com/mostakimhosen",
+      url: "https://www.linkedin.com/in/mostakim-hosen9/",
       icon: "FaLinkedinIn",
     },
     {
@@ -27,7 +27,7 @@ Let’s build something meaningful together!`,
     },
     {
       socialMediaName: "instagram",
-      url: "https://www.instagram.com/posterboy3369/",
+      url: "https://www.instagram.com/posterboy3369/#",
       icon: "AiFillInstagram",
     },
   ],
